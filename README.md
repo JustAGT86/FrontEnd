@@ -1,1 +1,3 @@
-Espaço dedicado para fazer upload do meu avanço em FrontEnd
+-> Espaço dedicado para fazer uploads do meu desenvolvimento em FrontEnd
+
+-> Dedicated espace to make uploads on my FrontEnd developing
